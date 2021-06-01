@@ -2,33 +2,22 @@
   "posts": [
     {
       "id": 1,
-      "english": "One",
+      "english": "One"
       "hanunuo": "Usa"
+      "audio": "assets/dream.mp3"
     },
     {
       "id": 2,
-      "english": "Two",
+      "english": "Two"
       "hanunuo": "Duwa"
+      "audio": "assets/dream.mp3"
     },
     {
       "id": 3,
-      "english": "Three",
+      "english": "Three"
       "hanunuo": "Tulo"
+      "audio": "assets/dream.mp3"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+  ]
 }
+ 
