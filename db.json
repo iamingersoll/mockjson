@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "english": "One",
     "hanunuo": "Usa",
@@ -29,4 +28,3 @@
     "hanunuo": "Lima",
     "audio": "assets/dream.mp3"
 }
-]
