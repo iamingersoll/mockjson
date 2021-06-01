@@ -2,28 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "english": "Post 1",
-      "hanunuo": "this is description 1"
+      "english": "One",
+      "hanunuo": "Usa"
     },
     {
       "id": 2,
-      "english": "Post 2",
-      "hanunuo": "this is description 2"
+      "english": "Two",
+      "hanunuo": "Duwa"
     },
     {
       "id": 3,
-      "english": "Post 3",
-      "hanunuo": "this is description 3"
-    }
-    {
-      "id": 4,
-      "english": "Post 4",
-      "hanunuo": "this is description 4"
-    }
-    {
-      "id": 5,
-      "english": "Post 5",
-      "hanunuo": "this is description 5"
+      "english": "Three",
+      "hanunuo": "Tulo"
     }
   ],
   "comments": [
