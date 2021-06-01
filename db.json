@@ -3,19 +3,19 @@
     {
       "id": 1,
       "english": "One",
-      "hanunuo": "Usa"
+      "hanunuo": "Usa",
       "audio": "assets/dream.mp3"
     },
     {
       "id": 2,
       "english": "Two",
-      "hanunuo": "Duwa"
+      "hanunuo": "Duwa",
       "audio": "assets/dream.mp3"
     },
     {
       "id": 3,
       "english": "Three",
-      "hanunuo": "Tulo"
+      "hanunuo": "Tulo",
       "audio": "assets/dream.mp3"
     }
   ]
